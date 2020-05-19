@@ -1,0 +1,5 @@
+name: Auto Test
+description: Test gh-actions plugin for auto
+runs:
+  using: node12
+  main: dist/index.js
