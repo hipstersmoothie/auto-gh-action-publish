@@ -11,9 +11,9 @@
   "author": "Andrew Lisowski",
   "license": "ISC",
   "devDependencies": {
-    "@auto-canary/auto": "9.34.2-canary.1238.15867.0",
-    "@auto-canary/gh-actions": "9.34.2-canary.1238.15867.0",
-    "@auto-canary/git-tag": "9.34.2-canary.1238.15867.0",
+    "@auto-canary/auto": "9.34.2-canary.1238.15871.0",
+    "@auto-canary/gh-actions": "9.34.2-canary.1238.15871.0",
+    "@auto-canary/git-tag": "9.34.2-canary.1238.15871.0",
     "typescript": "^3.9.3"
   }
 }
