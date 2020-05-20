@@ -1,3 +1,9 @@
+# v0.0.2 (Tue May 19 2020)
+
+
+
+---
+
 # v0.0.1 (Tue May 19 2020)
 
 #### ⚠️  Pushed to `master`
