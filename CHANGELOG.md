@@ -1,3 +1,15 @@
+# v2.0.1 (Wed May 20 2020)
+
+#### ⚠️  Pushed to `master`
+
+- turn on version branches ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v2.0.0 (Wed May 20 2020)
 
 #### 💥 Breaking Change
