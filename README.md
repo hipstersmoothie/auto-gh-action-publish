@@ -1,6 +1,6 @@
 # `auto` GitHub Actions
 
-This is a javascript based gh-action published using auto
+This is a javascript based gh-action published using auto.
 
 An `auto` release is made on every merge and contains:
 
