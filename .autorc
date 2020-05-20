@@ -3,5 +3,6 @@
   "repo": "auto-gh-action-publish",
   "name": "Andrew Lisowski",
   "email": "lisowski54@gmail.com",
+  "versionBranches": true,
   "plugins": [["gh-actions", { "files": ["./dist/index.js"] }], "released"]
 }
