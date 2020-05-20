@@ -2,7 +2,7 @@
   "name": "auto-gh-action-example",
   "private": true,
   "version": "0.0.0",
-  "description": "This is a javascript based gh-action published using auto.",
+  "description": "This is a javascript based gh-action published using auto",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
