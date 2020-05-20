@@ -1,3 +1,15 @@
+# v1.0.0 (Wed May 20 2020)
+
+#### 💥 Breaking Change
+
+- testing [#1](https://github.com/hipstersmoothie/auto-gh-action-publish/pull/1) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v0.0.34 (Tue May 19 2020)
 
 
